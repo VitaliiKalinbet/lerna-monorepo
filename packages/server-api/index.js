@@ -11,6 +11,5 @@ app.listen(port, (err) => {
     console.log(`Error: ${err.message}`);
   } else {
     console.log(`Listen on port: ${port}`);
-    console.log('Hello world');
   }
 });
