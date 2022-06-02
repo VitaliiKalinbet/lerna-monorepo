@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/VitaliiKalinbet/lerna-monorepo/compare/v1.2.0...v1.3.0) (2022-06-02)
+
+
+### Features
+
+* change server responce ([2009d3c](https://github.com/VitaliiKalinbet/lerna-monorepo/commit/2009d3c73cb4271b69451d3ee0e55e5a1c4fb842))
+
+
+
+
+
 # [1.2.0](https://github.com/VitaliiKalinbet/lerna-monorepo/compare/v1.1.0...v1.2.0) (2022-06-02)
 
 
