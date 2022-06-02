@@ -57,3 +57,15 @@ npm init --yes
     "diff": "lerna diff"
   },
 ```
+
+13. В lerna-monorepo корне запускаем командe     
+```js
+  npm run test
+```
+
+14. В lerna-monorepo корне запускаем командe     
+```js
+  npm run start
+```
+
+P.S. (Good video for do this)[https://www.youtube.com/watch?v=j0FiMekdeOs&ab_channel=DipeshMalvia]
