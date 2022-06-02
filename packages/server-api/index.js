@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
 app.listen(port, (err) => {
   if (err) {
     console.log(`Error: ${err.message}`);
-    console.warn(err)
   } else {
     console.log(`Listen on port: ${port}`)
   }
