@@ -5,7 +5,8 @@
     "start": "lerna run start --scope={web-client,server-api}",
     "test": "lerna run test --scope=web-client",
     "new-version": "lerna version --conventional-commits --yes",
-    "diff": "lerna diff"
+    "diff": "lerna diff",
+    "release": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^5.0.0"
